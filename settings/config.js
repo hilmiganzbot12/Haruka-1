@@ -7,10 +7,10 @@ global.anticall = true
 global.anti_delete = false
 
 // setting
-global.ownername ="Blacm Store"
-global.ownernumber = "6282143349069"
+global.ownername ="Black Store"
+global.ownernumber = "6282143349069 , 6283876969731"
 global.botname = "Black BotZ"
-global.thumbnail = fs.readFileSync("./settings/Haruka.jpg") //sesuaikan dengan nama foto
+global.thumbnail = fs.readFileSync("./settings/Ryuu.jpg") //sesuaikan dengan nama foto
 global.background = "https://telegra.ph/file/d4c05638fa7886a1d8060.jpg"
 global.lolkey = 'e966d3aac613b61dabd35cc6' //register lolhuman.xyz klo mau apikey
 global.zenzkey = '8423e19c13' //register zenzapi.xyz klo mau apikey
