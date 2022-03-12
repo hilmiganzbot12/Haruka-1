@@ -8,7 +8,7 @@ global.anti_delete = false
 
 // setting
 global.ownername ="Black Store"
-global.ownernumber = "6282143349069 , 6283876969731"
+global.ownernumber = "6282143349069"
 global.botname = "Black BotZ"
 global.thumbnail = fs.readFileSync("./settings/Ryuu.jpg") //sesuaikan dengan nama foto
 global.background = "https://telegra.ph/file/d4c05638fa7886a1d8060.jpg"
